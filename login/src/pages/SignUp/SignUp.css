@@ -1,0 +1,18 @@
+/* .form_wrapper {
+  font-family: YekanBoom !important;
+}
+
+@font-face {
+  font-family: "YekanBoom";
+  src: local("YekanBoom", url(../../fonts/YekanBoom.ttf) format("truetype"));
+} */
+
+.buttons_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.margined {
+  margin: 50px;
+}
