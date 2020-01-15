@@ -1,4 +1,4 @@
-A simple Sign Up page made with:
+(***Several bugs to be fixed***)A simple Sign Up page made with:
 *React
 *Redux
 *Redux-form
